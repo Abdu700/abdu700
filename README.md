@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./code.gif" width="200"/>
+  <img src="./code.gif" width="300"/>
   <h1>Hi there, I'm Abdullah 👋</h1>
   
   <a href="https://git.io/typing-svg">
