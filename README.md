@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="./code.gif" width="250"/>
   <h1>Hi there, I'm Abdullah 👋</h1>
   
